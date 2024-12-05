@@ -17,7 +17,7 @@ Warrior2
 Training Images: 800
 Validation Images: 197
 Project Workflow
-Data Preparation:
+Data Preparation :
 
 Images were preprocessed and split into training and validation sets.
 Standard augmentations were applied to increase dataset diversity.
