@@ -24,7 +24,7 @@ Standard augmentations were applied to increase dataset diversity.
 Model Architecture:
 
 The model is a CNN with the following layers:
-[Add details about layers, e.g., Conv2D, Pooling, Dense]
+[Add details about layers, e.g., Conv2D, Pooling, Dense ]
 Optimizer: [e.g., Adam]
 Loss Function: Categorical Crossentropy
 Training:
